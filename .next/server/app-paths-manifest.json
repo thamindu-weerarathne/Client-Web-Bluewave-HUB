@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/page": "app/page.js",
+  "/whale-watching/page": "app/whale-watching/page.js",
+  "/equipment-rental/page": "app/equipment-rental/page.js",
+  "/tour/[category]/[id]/page": "app/tour/[category]/[id]/page.js"
+}
